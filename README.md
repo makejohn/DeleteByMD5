@@ -1,2 +1,4 @@
 # DeleteByMD5
-Delete File which have same MD5 value
+Simple python script, delete file while have the same MD5 value
+use at your own risk
+Remeber to backup before doing anything to your data
